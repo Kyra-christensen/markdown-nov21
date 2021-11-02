@@ -5,13 +5,18 @@
 - _Spicy_ by CL
 - _Confidence_ by Oscar Scheller, Ashnikko
 
-
 ### ***My animals:***
 | Animal Type | Name | Color       |   |   |
 |-------------|------|-------------|---|---|
 | Cat         | Thor | Orange      |   |   |
 | Cat         | Liam | Black/White |   |   |
 | Dog         | Jak  | White       |   |   |
+
+![](./src/assets/Thor.jpg)
+
+![](./src/assets/Liam.jpg)
+
+![](./src/assets/Jak.jpg)
 
 ## Today was a nice refresher!! 
 
